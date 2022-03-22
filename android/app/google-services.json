@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077148243446",
+    "project_id": "whatsapp-148e5",
+    "storage_bucket": "whatsapp-148e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077148243446:android:f1dd5b11718b4208a863d7",
+        "android_client_info": {
+          "package_name": "com.example.justmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077148243446-q5nrma7u71hnuik61rvgvs6l4eheca0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justmeet",
+            "certificate_hash": "93f82f7428f1da866640cc613b7e3b9e3845401e"
+          }
+        },
+        {
+          "client_id": "1077148243446-p2u9o2jaanieudrrv7ii3luertah4dlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfYH7iklSHJkfrAfEG-uIku4BT23UAAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077148243446-p2u9o2jaanieudrrv7ii3luertah4dlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
